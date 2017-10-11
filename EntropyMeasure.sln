@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntropyMeasure", "EntropyMeasure\EntropyMeasure.csproj", "{5D51F81A-9944-4437-9FB1-207488B369BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D51F81A-9944-4437-9FB1-207488B369BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D51F81A-9944-4437-9FB1-207488B369BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D51F81A-9944-4437-9FB1-207488B369BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D51F81A-9944-4437-9FB1-207488B369BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8676E464-4A1A-404B-B359-F66A212AC342}
+	EndGlobalSection
+EndGlobal
